@@ -3,9 +3,9 @@ To build the app, you need NodeJs and Apache Cordova. [See the instructions](htt
 Android & Ios dependencies are not part of this scope.
 
 # Steps
-As the project is build around the webwallet, the first thing to do is to download the content of the [official Chimera webwallet](https://github.com/Chimera-project/Chimera-webwallet)
+As the project is build around the webwallet, the first thing to do is to download the content of the [official Chimera webwallet](https://github.com/tylersisia/chimera-webwallet)
 and put the content of the src directory inside the src directory of this repo (after compiling. See instructions in the upstream repository).
-Releases (master branch) are automatically compiled and the result can be downloaded on the [Gitlab mirror](https://gitlab.com/Chimera-project/Chimera-webwallet/-/jobs/artifacts/master/download?job=buid)
+Releases (master branch) are automatically compiled and the result can be downloaded on the [Gitlab mirror](https://gitlab.com/tylersisia/chimera-webwallet/-/jobs/artifacts/master/download?job=buid)
 
 Create a directory named "www", empty.
 
